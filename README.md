@@ -18,10 +18,13 @@ HTTP/1.1 Based
 
 
 FUNCTIONS:
+
 	GET
 
 
 SUPPORTTED WEB TYPES:
+
+
 	html
 	htm
        static url's
@@ -32,6 +35,7 @@ Web Tags NOT Suportted:
 
 
 Limitations:
+
 	1.	The maximum line length on a web page is 512.  Any characters
 		beyond that will be dropped.
 
